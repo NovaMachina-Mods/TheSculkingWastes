@@ -19,7 +19,7 @@ apply plugin: 'org.parchmentmc.librarian.forgegradle'
 
 sonarqube {
     properties {
-        property "sonar.projectKey", "<NovaMachina-Mods_TheSculkingWastes_AYHlPGtJnoUcJlyyc6Gz>"
+        property "sonar.projectKey", "NovaMachina-Mods_TheSculkingWastes_AYHlPGtJnoUcJlyyc6Gz"
     }
 }
 
